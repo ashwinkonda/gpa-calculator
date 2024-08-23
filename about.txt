@@ -1,0 +1,33 @@
+Welcome to the GPA Calculator!
+
+Description:
+
+    The GPA Calculator is a user-friendly tool designed to help you accurately calculate your GPA through 
+    a command-line interface. It utilizes a standard grading scale commonly used across the United States.
+    The program also presents your academic information in a well-organized manner using tables.
+
+Instructions:
+
+    1. Add a Semester: Start by adding a semester to the program. This step is crucial before you can begin recording classes
+    for a specific term.
+
+    2. Add Classes: Once a semester is added, you can input the classes and their respective grades. Grades MUST be letter grades
+    from the grading scale.
+
+    3. Calculate GPA: You can calculate your GPA at any time during the process.
+
+    4. Exit: When you are finished, you can exit the program. All your grades and academic information will be securely saved 
+    in an SQLite database for future reference.
+
+Grading Scale:
+
+    A = 4.0
+    A- = 3.67
+    B+ = 3.33
+    B = 3.00
+    B- 2.67
+    C+ = 2.33
+    C = 2.00
+    C- = 2.00
+    D = 1.00
+    F = 0
